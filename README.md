@@ -362,7 +362,7 @@ Adicionar espaçamento no main:
 ---
 
 
-# 🎯 Objetivo Final da Aula
+# 🎯 Objetivos Finais da Aula
 
 Ao concluir esta aula, você deve:
 
